@@ -5,9 +5,9 @@ fundamentals and growing as I work through more tutorials and learnings.
 
 ## Contents
 
-- `tests/` — pytest exercises, following along with [Please Learn How To Write Tests in Python… • Pytest Tutorial](https://www.youtube.com/watch?v=EgpLj86ZHFQ)
+- `tests/` — pytest exercises,
 
-More topics/tutorials will be added over time as separate sections below.
+More topics will be added over time as separate sections below.
 
 ## Setup
 
@@ -20,5 +20,5 @@ pip install -r requirements.txt
 ## Running tests
 
 ```bash
-pytest
+pytest test_main.py
 ```
