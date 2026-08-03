@@ -1,4 +1,4 @@
-from main import get_weather, add, divide
+from basics.main import get_weather, add, divide
 import pytest
 
 def test_get_weather():
