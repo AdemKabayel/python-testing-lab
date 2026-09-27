@@ -1,6 +1,6 @@
 # python-testing-lab
 
-A running collection of Python testing practice — starting with `pytest`
+A running collection of Python testing practice - starting with `pytest`
 fundamentals and growing as I work through more tutorials and learnings.
 
 ## Contents
